@@ -17,7 +17,7 @@
 # under the License.
 #
 
-* text eol=lf
+* text=auto
 *.jpg -text
 *.jpeg -text
 *.png -text
